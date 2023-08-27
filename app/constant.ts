@@ -69,19 +69,19 @@ export const DEFAULT_MODELS = [
     available: true,
   },
   {
-    name: "gpt-4-0314",
+    name: "vicuna-7b-v1.3",
     available: true,
   },
   {
-    name: "gpt-4-0613",
+    name: "fastchat-t5-3b-v1.0",
     available: true,
   },
   {
-    name: "gpt-4-32k",
+    name: "manticore-13b-chat-pyg",
     available: true,
   },
   {
-    name: "gpt-4-32k-0314",
+    name: "Llama-2-7b",
     available: true,
   },
   {
