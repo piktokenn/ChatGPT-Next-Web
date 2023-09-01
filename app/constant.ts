@@ -83,7 +83,7 @@ export const DEFAULT_MODELS = [
     available: true,
   },
   {
-    name: "Llama-2-7b",
+    name: "Llama-2-7b-chat-hf",
     available: true,
   },
   {
