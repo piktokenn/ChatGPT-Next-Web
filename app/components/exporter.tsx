@@ -496,7 +496,7 @@ export function ImagePreviewer(props: {
           </div>
           <div>
             <div className={styles["chat-info-item"]}>
-            {"🔗"} https://github.com/Yidadaa/ChatGPT-Next-Web
+            {"🔗"} https://github.com/piktokenn/ChatGPT-Next-Web
             </div>
             <div className={styles["chat-info-item"]}>
             {"🤖"} {Locale.Exporter.Model}: {mask.modelConfig.model}
